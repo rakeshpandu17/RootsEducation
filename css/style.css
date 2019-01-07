@@ -148,12 +148,12 @@ header a:hover{
 /*sidebar*/
 aside#sidebar{
     float:right;
-    width: 20%;
+    width: 30%;
     margin-top: 10px;
 }
 
 aside#sidebar .quote input, aside#sidebar .quote textarea{
-    widows: 100%;padding: 5px; width:95%;
+    widows:100%; padding:5px; width:95%;
 
 }
 
@@ -197,6 +197,7 @@ footer{
     #newsletter form,
     #boxes.box,
     article#main-col,
+    iframe,
     aside#sidebar{
         float:none;
         text-align:center;
